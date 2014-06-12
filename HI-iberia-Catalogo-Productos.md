@@ -9,15 +9,15 @@ CATALOGO DE PRODUCTOS
 <!-- MarkdownTOC depth=2 -->
 
 - [EDUCACION](#educacion)
-  - [hi SchoolBook](#hischoolbook)
+  - [hi SchoolBook](#hi-schoolbook)
 - [SEGURIDAD](#seguridad)
   - [LIFEonLive](#lifeonlive)
-  - [Proyectos Europeos](#pes)
+  - [Proyectos Europeos Seguridad](#proyectos-europeos-seguridad)
 - [GAMES](#games)
-  - [hi GaaS](#higaas)
+  - [hi GaaS](#hi-gaas)
 - [eHEALTH](#ehealth)
-  - [hi Residencias Virtuales](#hirv)
-  - [Proyectos Europeos](#peh)
+  - [hi Residencias Virtuales](#hi-residencias-virtuales)
+  - [Proyectos Europeos eHealth](#proyectos-europeos-ehealth)
 - [Calidad y Seguridad de los Productos HI-iberia](#calidad)
 
 
@@ -26,7 +26,7 @@ CATALOGO DE PRODUCTOS
 ---
 
 # [EDUCACION](#educacion)
-## [hi SchoolBook](#hischoolbook)
+## [hi SchoolBook](#hi-schoolbook)
 ![scoolbook](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
 
 [hi Schoolbook](www.hischoolbook.io) es un entorno web para generar, distribuir y consumir contenidos educativos personalizados a cada alumno. Está basado en contenidos open source y pretende ser la Wikipedia de las herramientas de educación.
@@ -84,7 +84,7 @@ Con 3 ramas: **Presente, Pasado y Futuro. **
     * user: demobigdata
     * pass: demobigdata
 
-## [PROYECTOS EUROPEOS](#pes)
+## [PROYECTOS EUROPEOS SEGURIDAD](#proyectos-europeos-seguridad)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
  +  [SafeCity](http://www.safecity-project.eu/) is one of the 8 Use Cases selected by the European Commission to start building the European Future Internet. It will run during 2 years starting the 1st of April of 2011, embedded into the FI PPP initiative.
@@ -99,7 +99,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 # [GAMES](#games)
 
-## [Plataforma Game As a Service (hi GaaS)](#higaas)
+## [Plataforma Game As a Service (hi GaaS)](#hi-gaas)
 
 Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
 
@@ -122,7 +122,7 @@ Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
 ![GPUsAmazon](https://dl.dropboxusercontent.com/u/1551037/GPUsAmazon.png "GPUsAmazon")
 
 ### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](#ehealth)
-## [hi Residencias Virtuales](#hirv)
+## [hi Residencias Virtuales](#hi-residencias-virtuales)
 Habitaciones Virtuales para Residencias de Ancianos:
 
 ### OBJETIVOS:
@@ -150,7 +150,7 @@ DOCTOR |doctor | cualquier password
 HIJO_1 |chica |  cualquier password
 HIJO_2 |chico |  cualquier password
 
-## [PROYECTOS EUROPEOS](#peh)
+## [PROYECTOS EUROPEOS eHEALTH](#proyectos-europeos-ehalth)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
  +  [**MyGuardian**](http://www.myguardian-project.eu/) A Pervasive Guardian for Elderly with Mild Cognitive Impairments.
