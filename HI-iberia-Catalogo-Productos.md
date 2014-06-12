@@ -9,7 +9,7 @@ CATALOGO DE PRODUCTOS
 <!-- MarkdownTOC depth=2 -->
 
 - [EDUCACION](#educacion)
-  - [hi SchoolBook](#hiSchoolBook)
+  - [hi SchoolBook](#hischoolbook)
 - [SEGURIDAD](#seguridad)
   - [LIFEonLive](#lifeonlive)
   - [Proyectos Europeos](#pes)
@@ -26,7 +26,7 @@ CATALOGO DE PRODUCTOS
 ---
 
 # [EDUCACION](#educacion)
-## [hi SchoolBook](hiSchoolBook)
+## [hi SchoolBook](#hischoolbook)
 ![scoolbook](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
 
 [hi Schoolbook](www.hischoolbook.io) es un entorno web para generar, distribuir y consumir contenidos educativos personalizados a cada alumno. Está basado en contenidos open source y pretende ser la Wikipedia de las herramientas de educación.
