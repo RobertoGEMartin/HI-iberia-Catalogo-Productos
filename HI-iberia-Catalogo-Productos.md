@@ -173,9 +173,8 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 
 
-|CARGO  | NOMBRE   | DATOS DE CONTACTO|
-|:----|:---------------------|:-----------------------------|
 |PRESIDENTE  | Manuel Moreu   | http://hi-iberia.es/mmoreu/|
+|:----|:---------------------|:-----------------------------|
 |CEO  | Juan Alberto Vecino   | http://hi-iberia.es/jvecino/ |
 |CINO |Roberto Gómez-Espinosa Martín | http://hi-iberia.es/rgomez/ |
 
