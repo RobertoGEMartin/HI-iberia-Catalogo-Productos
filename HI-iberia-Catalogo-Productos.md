@@ -56,7 +56,7 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 Proyecto de seguridad basado en dispositivos móviles, reconocimiento facial, sensorística, cloud y bigdata.
 
-Con 3 ramas: **Presente, Pasado y Futuro. **  
+Con 3 ramas: **Presente, Pasado y Futuro.**  
 
 ![LIFEonLive.Web.CC.png](https://dl.dropboxusercontent.com/u/1551037/LIFEonLive.Web.CC.png "LIFEonLive.Web.CC")
 
@@ -104,7 +104,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 ## [Plataforma Game As a Service (hi GaaS)](#hi-gaas)
 
-Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
+Plataforma GaaS de HI, con prestaciones similares a [Gaikai](http://en.wikipedia.org/wiki/Gaikai).
 
 ![HiGaaS](https://dl.dropboxusercontent.com/u/1551037/HiGaaS.png "HiGaaS")
 
@@ -136,9 +136,9 @@ Habitaciones Virtuales para Residencias de Ancianos:
 
 ### ¿Cómo conseguir este objetivo?
 
-* “Skype personalizado” en la casa del anciano = 0€
-* Tablets de bajo coste = 100€
-* “Wii Star Trek Tricorder” para la casa del anciano = 150€
+* “Skype personalizado”
+* Tablets de bajo coste
+* “Wii Star Trek Tricorder”
 
 ### Demo Online
 
