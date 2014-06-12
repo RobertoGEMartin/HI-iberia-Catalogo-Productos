@@ -90,8 +90,8 @@ Con 3 ramas: **Presente, Pasado y Futuro.**
 ## [PROYECTOS EUROPEOS SEGURIDAD](#proyectos-europeos-seguridad)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
- +  [SafeCity](http://www.safecity-project.eu/) is one of the 8 Use Cases selected by the European Commission to start building the European Future Internet. It will run during 2 years starting the 1st of April of 2011, embedded into the FI PPP initiative.
- +  ARGOS - Advanced protection of critical buildings by overall anticipating System
+ + [SafeCity](http://www.safecity-project.eu/) is one of the 8 Use Cases selected by the European Commission to start building the European Future Internet. It will run during 2 years starting the 1st of April of 2011, embedded into the FI PPP initiative.
+ + ARGOS - Advanced protection of critical buildings by overall anticipating System
  + SAVASA - Standards based Approach to Video Archive Search and Analysis
  + [ASASEC](http://www.asasec.eu/index.php?lang=en) - Advisory System Against Sexual Exploitation of Children
  + SAMi2 - Semantics Analysis Monitor for the Illegal Use of Internet  
@@ -160,6 +160,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
  + [WayFiS](http://www.wayfis.eu/): Way Finding for Seniors, European AAL Project approved in the AAL 3rd call leading by HI iberia.
  + [ANIMATE](www.aal-europe.eu/projects/animate/) intergenerAtional community for CoMpAny knowledge TransfEr.NIMATE (AAL-2013-6-071) is an European AAL Project approved in the AAL 6th Call. HI iberia leads the project with an international consortium.
 
+
 ---
 
 # [Calidad y Seguridad de los Productos HI-iberia](#calidad-y-seguridad-de-los-productos-hi-iberia)
@@ -172,10 +173,11 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 
 
-|PRESIDENTE  | Manuel Moreu   | http://hi-iberia.es/mmoreu/|
+|CARGO  | NOMBRE   | DATOS DE CONTACTO|
 |:----|:---------------------|:-----------------------------|
+|PRESIDENTE  | Manuel Moreu   | http://hi-iberia.es/mmoreu/|
 |CEO  | Juan Alberto Vecino   | http://hi-iberia.es/jvecino/ |
-|CINO |Roberto Gómez-Espinosa | http://hi-iberia.es/rgomez/ |
+|CINO |Roberto Gómez-Espinosa Martín | http://hi-iberia.es/rgomez/ |
 
 
 ***
