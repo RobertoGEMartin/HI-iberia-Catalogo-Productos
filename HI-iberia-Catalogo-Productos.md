@@ -11,22 +11,22 @@ CATALOGO DE PRODUCTOS
 - [EDUCACION](#educacion)
   - [hi SchoolBook](#hiSchoolBook)
 - [SEGURIDAD](#seguridad)
-  - [LIFEonLive](#LIFEONLIVE)
-  - [Proyectos Europeos](#PES)
-- [GAMES](#GAMES)
-  - [hi GaaS](#)
-- [eHEALTH](#eHEALTH)
-  - [hi Residencias Virtuales](#RV)
-  - [Proyectos Europeos](#PEH)
-- [Calidad y Seguridad de los Productos HI-iberia](#CALIDAD)
+  - [LIFEonLive](#lifeonlive)
+  - [Proyectos Europeos](#pes)
+- [GAMES](#games)
+  - [hi GaaS](#higaas)
+- [eHEALTH](#ehealth)
+  - [hi Residencias Virtuales](#hirv)
+  - [Proyectos Europeos](#peh)
+- [Calidad y Seguridad de los Productos HI-iberia](#calidad)
 
 
 <!-- /MarkdownTOC -->
 
 ---
 
-# [EDUCACION](#EDUCACION)
-## [hi SchoolBook](id:hiSchoolBook)
+# [EDUCACION](#educacion)
+## [hi SchoolBook](hiSchoolBook)
 ![scoolbook](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
 
 [hi Schoolbook](www.hischoolbook.io) es un entorno web para generar, distribuir y consumir contenidos educativos personalizados a cada alumno. Está basado en contenidos open source y pretende ser la Wikipedia de las herramientas de educación.
@@ -52,7 +52,7 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 # [SEGURIDAD](#seguridad)
 
-## [LIFEONLIVE](id:LIFEONLIVE)
+## [LIFEONLIVE](#lifeonlive)
 
 Proyecto de seguridad basado en dispositivos móviles, reconocimiento facial, sensorística, cloud y bigdata.
 
@@ -84,7 +84,7 @@ Con 3 ramas: **Presente, Pasado y Futuro. **
     * user: demobigdata
     * pass: demobigdata
 
-## [PROYECTOS EUROPEOS](id:PES)
+## [PROYECTOS EUROPEOS](#pes)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
  +  [SafeCity](http://www.safecity-project.eu/) is one of the 8 Use Cases selected by the European Commission to start building the European Future Internet. It will run during 2 years starting the 1st of April of 2011, embedded into the FI PPP initiative.
@@ -97,9 +97,9 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 ---
 
-# [GAMES](id:GAMES)
+# [GAMES](#games)
 
-## [Plataforma Game As a Service (hi GaaS)](id:HiGaaS)
+## [Plataforma Game As a Service (hi GaaS)](#higaas)
 
 Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
 
@@ -121,8 +121,8 @@ Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
 **GPUsAmazon**
 ![GPUsAmazon](https://dl.dropboxusercontent.com/u/1551037/GPUsAmazon.png "GPUsAmazon")
 
-### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](id:eHEALTH)
-## [hi Residencias Virtuales](id:RV)
+### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](#ehealth)
+## [hi Residencias Virtuales](#hirv)
 Habitaciones Virtuales para Residencias de Ancianos:
 
 ### OBJETIVOS:
@@ -150,7 +150,7 @@ DOCTOR |doctor | cualquier password
 HIJO_1 |chica |  cualquier password
 HIJO_2 |chico |  cualquier password
 
-## [PROYECTOS EUROPEOS](id:PEH)
+## [PROYECTOS EUROPEOS](#peh)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
  +  [**MyGuardian**](http://www.myguardian-project.eu/) A Pervasive Guardian for Elderly with Mild Cognitive Impairments.
@@ -160,7 +160,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 ---
 
-# [Calidad y Seguridad de los Productos HI-iberia](id:CALIDAD)
+# [Calidad y Seguridad de los Productos HI-iberia](#calidad)
 
 + HI-iberia tiene las ISOs: **9001, 14001, 20000, 27001**
 + HI-iberia está clasificada por el **Ministerio de Economia y Hacienda de España** en los máximos niveles de los servicios: **V 02 D , V 03 D y V 05 D**
