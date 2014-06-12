@@ -27,7 +27,7 @@ CATALOGO DE PRODUCTOS
 
 # [EDUCACION](#educacion)
 ## [hi SchoolBook](#hi-schoolbook)
-![scoolbook](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
+![hischoolbook-logo](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
 
 [hi Schoolbook](www.hischoolbook.io) es un entorno web para generar, distribuir y consumir contenidos educativos personalizados a cada alumno. Está basado en contenidos open source y pretende ser la Wikipedia de las herramientas de educación.
 
@@ -56,7 +56,10 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 Proyecto de seguridad basado en dispositivos móviles, reconocimiento facial, sensorística, cloud y bigdata.
 
-Con 3 ramas: **Presente, Pasado y Futuro. **
+Con 3 ramas: **Presente, Pasado y Futuro. **  
+
+![LIFEonLive.Web.CC.png](https://dl.dropboxusercontent.com/u/1551037/LIFEonLive.Web.CC.png "LIFEonLive.Web.CC")
+
 
 ### Videos Demos LIFEonLive:
 
@@ -133,9 +136,8 @@ Habitaciones Virtuales para Residencias de Ancianos:
 
 ### ¿Cómo conseguir este objetivo?
 
-* “Skype personalizado” para la casa del anciano = 0€
-* “Skype personalizado” para la casa del anciano = 0€
-* Tabletas de bajo coste = 100€
+* “Skype personalizado” en la casa del anciano = 0€
+* Tablets de bajo coste = 100€
 * “Wii Star Trek Tricorder” para la casa del anciano = 150€
 
 ### Demo Online
