@@ -8,9 +8,9 @@ CATALOGO DE PRODUCTOS
 
 <!-- MarkdownTOC depth=2 -->
 
-- [EDUCACION](#EDUCACION)
+- [EDUCACION](#educacion)
   - [hi SchoolBook](#hiSchoolBook)
-- [SEGURIDAD](#SEGURIDAD)
+- [SEGURIDAD](#seguridad)
   - [LIFEonLive](#LIFEONLIVE)
   - [Proyectos Europeos](#PES)
 - [GAMES](#GAMES)
@@ -50,7 +50,7 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 ---
 
-# [SEGURIDAD](#SEGURIDAD)
+# [SEGURIDAD](#seguridad)
 
 ## [LIFEONLIVE](id:LIFEONLIVE)
 
