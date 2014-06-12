@@ -25,7 +25,7 @@ CATALOGO DE PRODUCTOS
 
 ---
 
-# EDUCACION (id:EDUCACION)
+# [EDUCACION](#EDUCACION)
 ## [hi SchoolBook](id:hiSchoolBook)
 ![scoolbook](https://dl.dropboxusercontent.com/u/1551037/HiShoolBook-logo.png "Hischoolbook")
 
@@ -49,7 +49,10 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 
 ---
-# [SEGURIDAD](id:SEGURIDAD)## [LIFEONLIVE](id:LIFEONLIVE)
+
+# [SEGURIDAD](#SEGURIDAD)
+
+## [LIFEONLIVE](id:LIFEONLIVE)
 
 Proyecto de seguridad basado en dispositivos móviles, reconocimiento facial, sensorística, cloud y bigdata.
 
@@ -118,9 +121,7 @@ Plataforma GaaS de HI, con prestaciones similares a **Gaikai**.
 **GPUsAmazon**
 ![GPUsAmazon](https://dl.dropboxusercontent.com/u/1551037/GPUsAmazon.png "GPUsAmazon")
 
-### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.
-    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  
-# [eHEALTH](id:eHEALTH)
+### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](id:eHEALTH)
 ## [hi Residencias Virtuales](id:RV)
 Habitaciones Virtuales para Residencias de Ancianos:
 
@@ -128,11 +129,11 @@ Habitaciones Virtuales para Residencias de Ancianos:
 
 * Aumentar la cartera de clientes dentro del área local
 * Maximizar el rendimiento del personal sanitario de la residencia.
-* Fidelización de futuros clientes
 * Aumentar la cartera de servicios ofertados
 
 ### ¿Cómo conseguir este objetivo?
 
+* “Skype personalizado” para la casa del anciano = 0€
 * “Skype personalizado” para la casa del anciano = 0€
 * Tabletas de bajo coste = 100€
 * “Wii Star Trek Tricorder” para la casa del anciano = 150€
@@ -153,7 +154,7 @@ HIJO_2 |chico |  cualquier password
 http://www.hi-iberia.es/en/hiResearchProyectos.php
 
  +  [**MyGuardian**](http://www.myguardian-project.eu/) A Pervasive Guardian for Elderly with Mild Cognitive Impairments.
- +  Salig++ : Smart Assisted Living Involving Informal Caregivers
+ + [WayFiS](http://www.wayfis.eu/): Way Finding for Seniors, European AAL Project approved in the AAL 3rd call leading by HI iberia.
  + [WayFiS](http://www.wayfis.eu/): Way Finding for Seniors, European AAL Project approved in the AAL 3rd call leading by HI iberia.
  + [ANIMATE](www.aal-europe.eu/projects/animate/) intergenerAtional community for CoMpAny knowledge TransfEr.NIMATE (AAL-2013-6-071) is an European AAL Project approved in the AAL 6th Call. HI iberia leads the project with an international consortium.
 
@@ -177,5 +178,8 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 ***
 **HI iberia Ingeniería y Proyectos es el propietario del copyright de este documento que no será utilizado con otro propósito que no sea el de su entrega. El documento no podrá ser copiado o entregado a otra persona u organización sin una autorización del propietario.**
+
+
+
 
 **© HI Iberia Ingeniería y proyectos, S.L. 2014**
