@@ -167,7 +167,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 ## The New Call Centre  
 
-**Oficina Virtual Bankinter Arquitectura**
+**Oficina Virtual Banca Arquitectura**
 ![Oficina.Virtual.Bankinter.Arquitectura](https://dl.dropboxusercontent.com/u/1551037/Oficina.Virtual.Bankinter.Arquitectura.png "Oficina.Virtual.Bankinter.Arquitectura")
 
 ### Arquitectura Sencilla >> Despliegue rápido + 2 navegadores enlazados por un canal web de audio/video/datos
