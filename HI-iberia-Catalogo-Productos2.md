@@ -18,7 +18,7 @@ CATALOGO DE PRODUCTOS
 - [eHEALTH](#ehealth)
   - [hi Residencias Virtuales](#hi-residencias-virtuales)
   - [Proyectos Europeos eHealth](#proyectos-europeos-ehealth)
-- [OFICINA VIRTUAL BANKINTER](#oficina-virtual-banca)
+- [OFICINA VIRTUAL BANCA](#oficina-virtual-banca)
 
 - [Calidad y Seguridad de los Productos HI-iberia](#calidad-y-seguridad-de-los-productos-hi-iberia)
 
