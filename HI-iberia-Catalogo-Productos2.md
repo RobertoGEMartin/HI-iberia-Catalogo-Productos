@@ -18,7 +18,7 @@ CATALOGO DE PRODUCTOS
 - [eHEALTH](#ehealth)
   - [hi Residencias Virtuales](#hi-residencias-virtuales)
   - [Proyectos Europeos eHealth](#proyectos-europeos-ehealth)
-- [OFICINA VIRTUAL BANKINTER](#oficina-virtual-bankinter)
+- [OFICINA VIRTUAL BANKINTER](#oficina-virtual-banca)
 
 - [Calidad y Seguridad de los Productos HI-iberia](#calidad-y-seguridad-de-los-productos-hi-iberia)
 
@@ -163,7 +163,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
  + [WayFiS](http://www.wayfis.eu/): Way Finding for Seniors, European AAL Project approved in the AAL 3rd call leading by HI iberia.
  + [ANIMATE](www.aal-europe.eu/projects/animate/) intergenerAtional community for CoMpAny knowledge TransfEr.NIMATE (AAL-2013-6-071) is an European AAL Project approved in the AAL 6th Call. HI iberia leads the project with an international consortium.
 
-# [OFICINA VIRTUAL BANKINTER](#oficina-virtual-bankinter)
+# [OFICINA VIRTUAL BANCA](#oficina-virtual-banca)
 
 ## The New Call Centre  
 
