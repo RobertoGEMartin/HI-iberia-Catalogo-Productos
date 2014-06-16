@@ -187,7 +187,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 ### Demo Online
 [Acceso Demo online](http://escritoriovirtual.hi-iberia.es:1339/)
 
-ROL | User | Passwor
+ROL | User | Password
 :---|:-----|:-------
 Asesor| asesor|cualquiera
 Cliente|cliente|cualquiera
