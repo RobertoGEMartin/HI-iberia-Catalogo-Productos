@@ -116,12 +116,14 @@ Plataforma GaaS de HI, con prestaciones similares a [Gaikai](http://en.wikipedia
  + Servidor de Juegos: GPUs en Amazon AWS
  + Cliente de Juegos: Browser/App de SmartTV.
  + Controller/Gamepad: App para Smartphone Android.
-
- **GamePadAndroid**
-![GamePadAndroid](https://dl.dropboxusercontent.com/u/1551037/GamePadAndroid.png "GamePadAndroid")  
+ 
+### Videos Demos hi GaaS:
 
 **SmartTV**
-![SmartTV](https://dl.dropboxusercontent.com/u/1551037/SmartTV.png "SmartTV")  
+[![SmartTV](https://dl.dropboxusercontent.com/u/1551037/SmartTV.png)](https://www.youtube.com/watch?v=c161Lr0RJ0Y)
+
+**GamePadAndroid**
+[![GamePadAndroid](https://dl.dropboxusercontent.com/u/1551037/GamePadAndroid.png)](https://www.youtube.com/watch?v=RsEQeyF4z9Y)  
 
 **GPUsAmazon**
 ![GPUsAmazon](https://dl.dropboxusercontent.com/u/1551037/GPUsAmazon.png "GPUsAmazon")
