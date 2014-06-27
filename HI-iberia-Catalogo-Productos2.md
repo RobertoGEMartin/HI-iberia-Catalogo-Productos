@@ -105,9 +105,16 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 # [GAMES](#games)
 
-## [Plataforma Game As a Service (hi GaaS)](#hi-gaas)
+## [hi GaaS](#hi-gaas)
 
-Plataforma GaaS de HI, con prestaciones similares a [Gaikai](http://en.wikipedia.org/wiki/Gaikai).
+Gaming As A Service ( GaaS ) from www.hi-iberia.es. 
+
++ GPU servers in cloud
++ Html5 player in tv
++ Gamepad in phone
++ Fast response 
++ Without latency
+
 
 ![HiGaaS](https://dl.dropboxusercontent.com/u/1551037/HiGaaS.png "HiGaaS")
 
@@ -118,16 +125,20 @@ Plataforma GaaS de HI, con prestaciones similares a [Gaikai](http://en.wikipedia
  + Cliente de Juegos: Browser/App de SmartTV.
  + Controller/Gamepad: App para Smartphone Android.
  
-### Videos Demos hi GaaS:
-
-**SmartTV**
-[![SmartTV](https://dl.dropboxusercontent.com/u/1551037/SmartTV.png)](https://www.youtube.com/watch?v=c161Lr0RJ0Y)
-
-**GamePadAndroid**
-[![GamePadAndroid](https://dl.dropboxusercontent.com/u/1551037/GamePadAndroid.png)](https://www.youtube.com/watch?v=RsEQeyF4z9Y)  
-
+ 
 **GPUsAmazon**
 ![GPUsAmazon](https://dl.dropboxusercontent.com/u/1551037/GPUsAmazon.png "GPUsAmazon")
+
+**GamePadAndroid**
+![GamePadAndroid](https://dl.dropboxusercontent.com/u/1551037/GamePadAndroid.png)  
+
+ 
+### Video Demo:
+
+**hi GaaS**  
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/X0a7cdzGKpw/0.jpg)](https://www.youtube.com/watch?v=X0a7cdzGKpw)
+
+
 
 ### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](#ehealth)
 ## [hi Residencias Virtuales](#hi-residencias-virtuales)
