@@ -3,8 +3,8 @@
 **© HI Iberia Ingeniería y proyectos, S.L. 2014**
 
 
-CATALOGO DE PRODUCTOS
-=====================
+CATALOGO DE PRODUCTOS DE INNOVACION
+===================================
 
 <!-- MarkdownTOC depth=2 -->
 
@@ -14,7 +14,7 @@ CATALOGO DE PRODUCTOS
   - [LIFEonLive](#lifeonlive)
   - [Proyectos Europeos Seguridad](#proyectos-europeos-seguridad)
 - [SMARTCITIES](#smarticies)
-  - [LIFEONLIVE 112](#lifeonlive-112)
+  - [LIFEonLive 112](#lifeonlive-112)
   - [PROYECTOS EUROPEOS SMARTCITIES](#proyectos-europeos-smarticies)
 - [GAMES](#games)
   - [hi GaaS](#hi-gaas)
@@ -57,7 +57,7 @@ Es un sistema abierto a todos los dispositivos hardware [pasados, presentes y fu
 
 # [SEGURIDAD](#seguridad)
 
-## [LIFEONLIVE](#lifeonlive)
+## [LIFEonLive](#lifeonlive)
 
 Proyecto de seguridad basado en dispositivos móviles, reconocimiento facial, sensorística, cloud y bigdata.
 
@@ -83,16 +83,18 @@ Con 3 ramas: **Presente, Pasado y Futuro.**
 
  1. LIFEonLive con la Policia. Presente. Herramienta Centro Control. Análisis de Datos en Tiempo Real.
  
-       * user: demo
-       * pass: demo
+        * user: demo
+        * pass: demo
 
- 2. LIFEonLive Warehouse. Pasado. Herramienta forense. Análisis de Datos pasados.
-    * user: demoalmacen
-    * pass: demoalmacen
+ 2. LIFEonLive Warehouse. Pasado. Herramienta forense. Análisis de Datos pasados.  
+ 
+        * user: demoalmacen
+        * pass: demoalmacen
 
  3. LIFEonLive Big Data. Futuro. Herramienta para predicción. Visualización y Análisis de Big Data.  
-    * user: demobigdata
-    * pass: demobigdata
+  
+        * user: demobigdata
+        * pass: demobigdata
 
 ## [PROYECTOS EUROPEOS SEGURIDAD](#proyectos-europeos-seguridad)
 http://www.hi-iberia.es/en/hiResearchProyectos.php
@@ -106,7 +108,7 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 
 # [SMARTCITIES](#smarticies)
 
-## [LIFEONLIVE 112](#lifeonlive-112)
+## [LIFEonLive 112](#lifeonlive-112)
 
 Aplicación ganadora del “Talent Program Smart City” de Samsung.
 Su  objetivo es mejorar la comunicación entre los ciudadanos y los servicios de emergencias de la ciudad. Se trata de una aplicación con la que cualquier ciudadano puede informar de una emergencia. Permite al ciudadano realizar la transferencia en tiempo real de vídeo, audio, GPS y sensores desde de su dispositivo móvil al centro de control del 112.
