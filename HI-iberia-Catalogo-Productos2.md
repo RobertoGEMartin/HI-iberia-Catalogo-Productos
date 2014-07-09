@@ -13,6 +13,9 @@ CATALOGO DE PRODUCTOS
 - [SEGURIDAD](#seguridad)
   - [LIFEonLive](#lifeonlive)
   - [Proyectos Europeos Seguridad](#proyectos-europeos-seguridad)
+- [SMARTCITIES](#smarticies)
+  - [LIFEONLIVE 112](#lifeonlive-112)
+  - [PROYECTOS EUROPEOS SMARTCITIES](#proyectos-europeos-smarticies)
 - [GAMES](#games)
   - [hi GaaS](#hi-gaas)
 - [eHEALTH](#ehealth)
@@ -79,8 +82,9 @@ Con 3 ramas: **Presente, Pasado y Futuro.**
 ### Demos online LIFEonLive: http://lifeonlive.es/
 
  1. LIFEonLive con la Policia. Presente. Herramienta Centro Control. Análisis de Datos en Tiempo Real.
-     * user: demo
-     * pass: demo
+ 
+       * user: demo
+       * pass: demo
 
  2. LIFEonLive Warehouse. Pasado. Herramienta forense. Análisis de Datos pasados.
     * user: demoalmacen
@@ -100,6 +104,32 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
  + SAMi2 - Semantics Analysis Monitor for the Illegal Use of Internet  
 
 
+# [SMARTCITIES](#smarticies)
+
+## [LIFEONLIVE 112](#lifeonlive-112)
+
+Aplicación ganadora del “Talent Program Smart City” de Samsung.
+Su  objetivo es mejorar la comunicación entre los ciudadanos y los servicios de emergencias de la ciudad. Se trata de una aplicación con la que cualquier ciudadano puede informar de una emergencia. Permite al ciudadano realizar la transferencia en tiempo real de vídeo, audio, GPS y sensores desde de su dispositivo móvil al centro de control del 112.
+Toda esta información es visualizada en tiempo real en el centro de control del 112. 
+De esta forma conseguimos:
+ + Agilizar la evaluación de la situación + Movilizar los efectivos necesarios 
+ + La aplicación permite el envío de instrucciones al ciudadano: textos, imagenes, videos.
+
+![lifeonlive-112.png](https://dl.dropboxusercontent.com/u/1551037/lifeonlive-112.png "lifeonlive-112.png")
+
+
+### Demo online LIFEonLive 112: http://lifeonlive.es/
+
+     * user: demo112
+     * pass: demo112
+     
+
+## [PROYECTOS EUROPEOS SMARTCITIES](#proyectos-europeos-smarticies)
+
+http://www.hi-iberia.es/en/hiResearchProyectos.php
+
+  + [ACCUS](http://projectaccus.eu/) is focused on the integration of urban subsystems such an intelligent transport systems, city light systems and energy management systems. 
+  + [SafeCity](http://www.safecity-project.eu/) is one of the 8 Use Cases selected by the European Commission to start building the European Future Internet. It will run during 2 years starting the 1st of April of 2011, embedded into the FI PPP initiative.
 
 ---
 
