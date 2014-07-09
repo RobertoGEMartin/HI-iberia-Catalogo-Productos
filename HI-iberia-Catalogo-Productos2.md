@@ -114,8 +114,9 @@ Aplicación ganadora del “Talent Program Smart City” de Samsung.
 Su  objetivo es mejorar la comunicación entre los ciudadanos y los servicios de emergencias de la ciudad. Se trata de una aplicación con la que cualquier ciudadano puede informar de una emergencia. Permite al ciudadano realizar la transferencia en tiempo real de vídeo, audio, GPS y sensores desde de su dispositivo móvil al centro de control del 112.
 Toda esta información es visualizada en tiempo real en el centro de control del 112. 
 De esta forma conseguimos:
- + Agilizar la evaluación de la situación + Movilizar los efectivos necesarios 
- + La aplicación permite el envío de instrucciones al ciudadano: textos, imagenes, videos.
+ + Acelerar la evaluación de la situación. Minimizando errores en la descripción de la emergencia.
+ + Movilizar los efectivos necesarios. Optimizando su uso. 
+ + Dar mas soporte al ciudadano durante la emergencia. La aplicación permite el envío de instrucciones al ciudadano: textos, imagenes, videos.
 
 ![lifeonlive-112.png](https://dl.dropboxusercontent.com/u/1551037/lifeonlive-112.png "lifeonlive-112.png")
 
