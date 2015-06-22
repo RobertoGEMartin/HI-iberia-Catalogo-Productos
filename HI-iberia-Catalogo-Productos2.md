@@ -7,7 +7,7 @@ CATALOGO DE PRODUCTOS DE INNOVACION
 ===================================
 
 <!-- MarkdownTOC depth=2 -->
-- [Real-Time Comms System](#comms)
+- [COMUNICACIONES WEB :: SISTEMA DE COMUNICACIONES](#comms)
   - [hiONE](#hione)
 - [SEGURIDAD](#seguridad)
   - [LIFEonLive](#lifeonlive)
@@ -30,7 +30,7 @@ CATALOGO DE PRODUCTOS DE INNOVACION
 ---
 
 
-# [Real-Time Comms System](#comms)
+# [Sistema de Comunicaciones Web](#comms)
 ## [hiONE](#hione) 	
 
 ![hi-one-logo](https://dl.dropboxusercontent.com/u/1551037/logo-hiOne.png "hiONE")
