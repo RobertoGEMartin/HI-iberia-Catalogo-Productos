@@ -7,7 +7,7 @@ CATALOGO DE PRODUCTOS DE INNOVACION
 ===================================
 
 <!-- MarkdownTOC depth=2 -->
-- [Real-Time Comms System](#comms)
+- [COMUNICACIONES WEB :: SISTEMA DE COMUNICACIONES](#comms)
   - [hiONE](#hione)
 - [SEGURIDAD](#seguridad)
   - [LIFEonLive](#lifeonlive)
@@ -30,7 +30,7 @@ CATALOGO DE PRODUCTOS DE INNOVACION
 ---
 
 
-# [Real-Time Comms System](#comms)
+# [Sistema de Comunicaciones Web](#comms)
 ## [hiONE](#hione) 	
 
 ![hi-one-logo](https://dl.dropboxusercontent.com/u/1551037/logo-hiOne.png "hiONE")
@@ -123,10 +123,16 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 ## [LIFEonLive 112](#lifeonlive-112)
 
 Aplicación ganadora del “Talent Program Smart City” de Samsung.
-Su  objetivo es mejorar la comunicación entre los ciudadanos y los servicios de emergencias de la ciudad. Se trata de una aplicación con la que cualquier ciudadano puede informar de una emergencia. Permite al ciudadano realizar la transferencia en tiempo real de vídeo, audio, GPS y sensores desde de su dispositivo móvil al centro de control del 112.
-Toda esta información es visualizada en tiempo real en el centro de control del 112. 
-De esta forma conseguimos:
- + Acelerar la evaluación de la situación. Minimizando errores en la descripción de la emergencia.
+
+Su  objetivo es mejorar la comunicación entre los ciudadanos y los servicios de emergencias de la ciudad. 
+
+Se trata de una aplicación con la que cualquier ciudadano puede informar de una emergencia. Permite al ciudadano realizar la transferencia en tiempo real de vídeo, audio, GPS y sensores desde de su dispositivo móvil al centro de control del 112.
+
+Toda esta información es visualizada en tiempo real en el centro de control del 112. 
+
+De esta forma conseguimos:
+
+ + Acelerar la evaluación de la situación. Minimizando errores en la descripción de la emergencia.
  + Movilizar los efectivos necesarios. Optimizando su uso. 
  + Dar mas soporte al ciudadano durante la emergencia. La aplicación permite el envío de instrucciones al ciudadano: textos, imagenes, videos.
 
@@ -185,7 +191,18 @@ Gaming As A Service ( GaaS ) from www.hi-iberia.es.
 
 
 
-### Nuevos modelos de negocio para GaaS: + CPDs:    + Optimización de uso de CPDs de operadora.    + Nuevos modos de uso. + Contenidos:   + Autogeneración de contenidos.   + Live Chanels.   + Indie Games. Monedas Virtuales.  # [eHEALTH](#ehealth)
+
+### Nuevos modelos de negocio para GaaS:
+ + CPDs:
+    + Optimización de uso de CPDs de operadora.
+    + Nuevos modos de uso.
+ + Contenidos:
+   + Autogeneración de contenidos.
+   + Live Chanels.
+   + Indie Games. Monedas Virtuales.  
+
+
+# [eHEALTH](#ehealth)
 ## [hi Residencias Virtuales](#hi-residencias-virtuales)
 Habitaciones Virtuales para Residencias de Ancianos:
 
@@ -229,13 +246,40 @@ http://www.hi-iberia.es/en/hiResearchProyectos.php
 **Oficina Virtual Banca Arquitectura**
 ![Oficina.Virtual.Bankinter.Arquitectura](https://dl.dropboxusercontent.com/u/1551037/Oficina.Virtual.Bankinter.Arquitectura.png "Oficina.Virtual.Bankinter.Arquitectura")
 
-### Arquitectura Sencilla >> Despliegue rápido + 2 navegadores enlazados por un canal web de audio/video/datos
+### Arquitectura Sencilla >> Despliegue rápido
+
+ + 2 navegadores enlazados por un canal web de audio/video/datos
  + SIN centralita. 
  + SIN APP de terceros.
  + SIN salir del entorno web del cliente
  
-### Funcionalidades PrincipalesDesde un navegador web el cliente puede contactar con el Call Centre(CC):+ Videollamada P2P entre cliente y CC.     + Lo que le dará una sensación de atención personalizada.+ Canal de datos P2P entre cliente y CC.     + Lo que permite crear escritorios virtuales entre cliente y CC.
-+  Traking/record cliente durante su navegación por las páginas web del banco. El CC tiene disponible esta información, justo en el momento que lo necesita:    + Formularios completados por cliente antes de la videollamada.    + Páginas web vistas, ofertas visualizadas, estadísticas de uso. ### ¿Por qué es necesario?**Excerpt From: King, Brett. “Bank 3.0: Why banking is no longer somewhere you go, but something you do.”**>Call centres, or contact centres, have been hailed by industry as a significant improvement in the ability to provide rolling support for customers in an increasingly mobile and time-poor environment.>IVR systems and channel migration have provided a significant cost savings imprimatur for corporates. This revolution, however, has not resulted in greater customer satisfaction. Increasingly, contact centres are experiencing problems with very high staff turnover, those in management are demanding improved sales results and corporations are grappling with the question of outsourcing versus onshoring. >The vision of the ultimate contact centre currently appears to be a convoluted mix of unified messaging platform, IP-based architecture, automated voice response systems and first-call-resolution KPIs. But do core building blocks still have to be put in place for this channel to be truly effective? >This chapter tackled the issues of staff retention and effective measurement of the performance of the call centre. But it also looked at the deeper issues of the contact centre becoming the platform for all multichannel contacts with the customer—processing and recording contact history and optimising responses, whether through a sales opportunity, or through a better IVR design.>The construction of a simplified contact centre dashboard or interface would reduce workload for CSRs, improve first-call resolution opportunities, and result in better-quality sales positioning. 
+### Funcionalidades Principales
+
+Desde un navegador web el cliente puede contactar con el Call Centre(CC):
+
++ Videollamada P2P entre cliente y CC. 
+    + Lo que le dará una sensación de atención personalizada.
++ Canal de datos P2P entre cliente y CC. 
+    + Lo que permite crear escritorios virtuales entre cliente y CC.
++  Traking/record cliente durante su navegación por las páginas web del banco. El CC tiene disponible esta información, justo en el momento que lo necesita:
+    + Formularios completados por cliente antes de la videollamada.
+    + Páginas web vistas, ofertas visualizadas, estadísticas de uso. 
+
+### ¿Por qué es necesario?
+
+**Excerpt From: King, Brett. “Bank 3.0: Why banking is no longer somewhere you go, but something you do.”**
+
+>Call centres, or contact centres, have been hailed by industry as a significant improvement in the ability to provide rolling support for customers in an increasingly mobile and time-poor environment.
+
+>IVR systems and channel migration have provided a significant cost savings imprimatur for corporates. This revolution, however, has not resulted in greater customer satisfaction. Increasingly, contact centres are experiencing problems with very high staff turnover, those in management are demanding improved sales results and corporations are grappling with the question of outsourcing versus onshoring.
+ 
+>The vision of the ultimate contact centre currently appears to be a convoluted mix of unified messaging platform, IP-based architecture, automated voice response systems and first-call-resolution KPIs. But do core building blocks still have to be put in place for this channel to be truly effective?
+ 
+>This chapter tackled the issues of staff retention and effective measurement of the performance of the call centre. But it also looked at the deeper issues of the contact centre becoming the platform for all multichannel contacts with the customer—processing and recording contact history and optimising responses, whether through a sales opportunity, or through a better IVR design.
+
+>The construction of a simplified contact centre dashboard or interface would reduce workload for CSRs, improve first-call resolution opportunities, and result in better-quality sales positioning.
+ 
+
 
 **Oficina Virtual Bankinter Area Cliente**
 ![Oficina.Virtual.Bankinter.Area.Cliente](https://dl.dropboxusercontent.com/u/1551037/Oficina.Virtual.Bankinter.Area.Cliente.png "Oficina.Virtual.Bankinter.Area.Cliente")
@@ -266,7 +310,7 @@ Cliente|cliente|cualquiera
 |PRESIDENTE  | Manuel Moreu   | http://hi-iberia.es/mmoreu/|
 |:----|:---------------------|:-----------------------------|
 |CEO  | Juan Alberto Vecino   | http://hi-iberia.es/jvecino/ |
-|CINO |Roberto Gómez-Espinosa Martín | http://hi-iberia.es/rgomez/ |
+|CTO |Roberto Gómez-Espinosa Martín | http://hi-iberia.es/rgomez/ |
 
 
 ***
